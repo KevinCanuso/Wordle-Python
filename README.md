@@ -1,6 +1,6 @@
 # 🟩 Wordle Game
 
-A Python-based Wordle game that allows players to guess a five-letter word within six attempts.
+> *A Python-based Wordle game that allows players to guess a five-letter word within six attempts.*
 
 ## 🌟 Highlights
 
